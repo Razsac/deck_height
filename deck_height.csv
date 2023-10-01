@@ -1,0 +1,104 @@
+,tower_name,location_city,deck_height,tower_coordinates,ref_coordinates,ref_url
+0,Shanghai Tower,Shanghai,562.0,"[31.235555555555557, 121.50111111111111]",wiki,https://en.wikipedia.org/wiki/Shanghai_Tower
+1,Ping An Finance Centre,Shenzhen,562.0,"[22.53638888888889, 114.05055555555555]",wiki,https://en.wikipedia.org/wiki/Ping_An_Finance_Centre
+2,Burj Khalifa,Dubai,555.0,"[25.197222222222223, 55.274166666666666]",wiki,https://en.wikipedia.org/wiki/Burj_Khalifa
+3,Merdeka 118,Kuala Lumpur,510.0,"[3.1416666666666666, 101.70055555555555]",wiki,https://en.wikipedia.org/wiki/Merdeka_118
+4,Canton Tower,Guangzhou,488.0,"[23.10888888888889, 113.31888888888888]",wiki,https://en.wikipedia.org/wiki/Canton_Tower
+5,Lotte World Tower,Seoul,486.0,"[37.5125, 127.10277777777777]",wiki,https://en.wikipedia.org/wiki/Lotte_World_Tower
+6,Abraj Al Bait,Mecca,486.0,"[21.41888888888889, 39.82638888888889]",wiki,https://en.wikipedia.org/wiki/Abraj_Al_Bait
+7,Shanghai World Financial Center,Shanghai,474.0,"[31.2365768, 121.50304055090878]",geo,https://en.wikipedia.org/wiki/Shanghai_World_Financial_Center
+8,Burj Khalifa,Dubai,452.0,"[25.197222222222223, 55.274166666666666]",wiki,https://en.wikipedia.org/wiki/Burj_Khalifa
+9,Tokyo Skytree,Tokyo,451.2,"[35.71, 139.81083333333333]",wiki,https://en.wikipedia.org/wiki/Tokyo_Skytree
+10,Taipei 101,Taipei,449.2,"[25.033611111111114, 121.565]",wiki,https://en.wikipedia.org/wiki/Taipei_101
+11,CN Tower,Toronto,446.7,"[43.6426, -79.3871]",wiki,https://en.wikipedia.org/wiki/CN_Tower
+12,Willis Tower,Chicago,412.7,"[41.87888888888889, -87.63583333333334]",wiki,https://en.wikipedia.org/wiki/Willis_Tower
+13,Sky100,Hong Kong,393.0,"[22.303333333333335, 114.16027777777778]",wiki,https://en.wikipedia.org/wiki/Sky100
+14,One World Trade Center,New York City,386.6,"[40.713055555555556, -74.01333333333334]",wiki,https://en.wikipedia.org/wiki/One_World_Trade_Center
+15,Landmark 81,Ho Chi Minh City,382.0,"[10.7949426, 106.7220409]",geo,https://en.wikipedia.org/wiki/Landmark_81
+16,Petronas Towers,Kuala Lumpur,370.0,"[3.1579678500000004, 101.71120482350457]",geo,https://en.wikipedia.org/wiki/Petronas_Towers
+17,Empire State Building,New York City,369.0,"[40.748333333333335, -73.98527777777778]",wiki,https://en.wikipedia.org/wiki/Empire_State_Building
+18,Iconic Tower,New Administrative Capital,368.0,"[30.01, 31.695833333333333]",wiki,https://en.wikipedia.org/wiki/Iconic_Tower_(Egypt)
+19,Lakhta Center,Saint Petersburg,357.0,"[59.98713888888889, 30.17702777777778]",wiki,https://en.wikipedia.org/wiki/Lakhta_Center
+20,Oriental Pearl Tower,Shanghai,351.0,"[31.241666666666667, 121.49472222222222]",wiki,https://en.wikipedia.org/wiki/Oriental_Pearl_Tower
+21,Tuntex Sky Tower,Kaohsiung,341.0,"[22.611666666666668, 120.3]",wiki,https://en.wikipedia.org/wiki/Tuntex_Sky_Tower
+22,Jin Mao Tower,Shanghai,340.1,"[31.237222222222222, 121.50138888888888]",wiki,https://en.wikipedia.org/wiki/Jin_Mao_Tower
+23,30 Hudson Yards,New York City,340.0,"[40.75416666666667, -74.00083333333333]",wiki,https://en.wikipedia.org/wiki/30_Hudson_Yards
+24,Ostankino Tower,Moscow,340.0,"[55.819722222222225, 37.611666666666665]",wiki,https://en.wikipedia.org/wiki/Ostankino_Tower
+25,John Hancock Center,Chicago,313.8,"[41.89888888888889, -87.62305555555555]",wiki,https://en.wikipedia.org/wiki/John_Hancock_Center
+26,Milad Tower,Tehran,312.0,"[35.74472222222222, 51.375277777777775]",wiki,https://en.wikipedia.org/wiki/Milad_Tower
+27,China World Trade Center Tower III,Beijing,311.8,"[39.91083333333333, 116.45222222222222]",wiki,https://en.wikipedia.org/wiki/China_World_Trade_Center_Tower_III
+28,One Vanderbilt,New York City,310.9,"[40.753055555555555, -73.9786111111111]",wiki,https://en.wikipedia.org/wiki/One_Vanderbilt
+29,Shun Hing Square,Shenzhen,298.1,"[22.54527777777778, 114.10583333333332]",wiki,https://en.wikipedia.org/wiki/Shun_Hing_Square
+30,US Bank Tower,Los Angeles,297.0,"[34.051111111111105, -118.25416666666666]",wiki,https://en.wikipedia.org/wiki/US_Bank_Tower
+31,Kingdom Centre,Riyadh,290.0,"[24.711388888888887, 46.67444444444444]",wiki,https://en.wikipedia.org/wiki/Kingdom_Centre
+32,Abeno Harukas,Osaka,288.0,"[34.646, 135.5133888888889]",wiki,https://en.wikipedia.org/wiki/Abeno_Harukas
+33,Zifeng Tower,Nanjing,287.0,"[32.06247222222222, 118.77805555555555]",wiki,https://en.wikipedia.org/wiki/Zifeng_Tower
+34,Eureka Tower,Melbourne,285.0,"[-37.82166666666667, 144.96444444444444]",wiki,https://en.wikipedia.org/wiki/Eureka_Tower#The_Edge
+35,King Power MahaNakhon,Bangkok,281.6,"[13.723611111111111, 100.52833333333334]",wiki,https://en.wikipedia.org/wiki/King_Power_MahaNakhon
+36,Etihad Towers (Tower 2),Abu Dhabi,281.6,"[24.459444444444443, 54.32138888888889]",wiki,https://en.wikipedia.org/wiki/Etihad_Towers
+37,Eiffel Tower,Paris,276.1,"[48.858222222222224, 2.2944999999999998]",wiki,https://en.wikipedia.org/wiki/Eiffel_Tower
+38,Menara Kuala Lumpur,Kuala Lumpur,276.0,"[3.1527777777777777, 101.70333333333333]",wiki,https://en.wikipedia.org/wiki/Menara_Kuala_Lumpur
+39,Columbia Center,Seattle,275.0,"[47.60444444444445, -122.33055555555555]",wiki,https://en.wikipedia.org/wiki/Columbia_Center
+40,Yokohama Landmark,Yokohama,273.0,"[35.45472222222222, 139.63166666666666]",wiki,https://en.wikipedia.org/wiki/Yokohama_Landmark_Tower
+41,One Liberty Place,Philadelphia,269.0,"[39.952222222222225, -75.16777777777779]",wiki,https://en.wikipedia.org/wiki/Liberty_Place
+42,Bank of America Plaza (Dallas),Dallas,268.4,"[32.78, -96.80388888888889]",wiki,https://en.wikipedia.org/wiki/Bank_of_America_Plaza_(Dallas)
+43,JPMorgan Chase Tower,Houston,268.2,"[29.760555555555555, -95.36388888888888]",wiki,https://en.wikipedia.org/wiki/JPMorgan_Chase_Tower_(Houston)
+44,Sydney Tower,Sydney,268.0,"[-33.87045555555556, 151.20888888888888]",wiki,https://en.wikipedia.org/wiki/Sydney_Tower
+45,Gran Torre Santiago,Santiago,261.0,"[-33.41694444444444, -70.60666666666665]",wiki,https://en.wikipedia.org/wiki/Gran_Torre_Santiago
+46,GE Building,New York City,259.1,"[40.75888888888889, -73.97916666666667]",wiki,https://en.wikipedia.org/wiki/GE_Building
+47,Tianjin Tower,Tianjin,257.0,"[39.091944444444444, 117.17500000000001]",wiki,https://en.wikipedia.org/wiki/Tianjin_Radio_and_Television_Tower
+48,40 Wall Street,New York City,255.0,"[40.706944444444446, -74.00972222222222]",wiki,https://en.wikipedia.org/wiki/40_Wall_Street
+49,Osaka Prefectural Government Sakishima Building,Osaka,252.0,"[34.638333333333335, 135.415]",wiki,https://en.wikipedia.org/wiki/Osaka_Prefectural_Government_Sakishima_Building
+50,Etihad Towers (Tower 1),Abu Dhabi,251.2,"[24.459444444444443, 54.32138888888889]",wiki,https://en.wikipedia.org/wiki/Etihad_Towers
+51,63 Building,Seoul,249.0,"[37.51972222222222, 126.94]",wiki,https://en.wikipedia.org/wiki/63_Building
+52,Midland Square,Nagoya,247.0,"[35.17055555555555, 136.885]",wiki,https://en.wikipedia.org/wiki/Midland_Square
+53,Lotus Tower,Colombo,245.0,"[6.926944444444445, 79.85833333333333]",wiki,https://en.wikipedia.org/wiki/Lotus_Tower
+54,The Shard,London,244.8,"[51.504444444444445, -0.08638888888888889]",wiki,https://en.wikipedia.org/wiki/The_Shard
+55,Central Radio & TV Tower,Beijing,238.0,"[39.918055555555554, 116.30027777777778]",wiki,https://en.wikipedia.org/wiki/Central_Radio_%26_TV_Tower
+56,Sunshine 60,Tokyo,237.6,"[35.72958333333334, 139.71777777777777]",wiki,https://en.wikipedia.org/wiki/Sunshine_60
+57,Federation Tower (Tower West),Moscow,235.0,"[55.749769444444446, 37.53713888888889]",wiki,https://en.wikipedia.org/wiki/Federation_Tower
+58,TK Elevator Test Tower,Rottweil,232.0,"[48.17916666666667, 8.625277777777779]",wiki,https://en.wikipedia.org/wiki/Rottweil_Test_Tower
+59,Q1,Gold Coast,230.0,"[-28.00611111111111, 153.42944444444444]",wiki,https://en.wikipedia.org/wiki/Q1_(building)
+60,West Pearl Tower,Chengdu,230.0,"[30.66459722222222, 104.09222222222222]",wiki,https://en.wikipedia.org/wiki/West_Pearl_Tower
+61,Varso Tower,Warsaw,230.0,"[52.22862628888889, 20.999175061111114]",wiki,https://en.wikipedia.org/wiki/Varso
+62,Roppongi Hills Mori Tower,Tokyo,229.3,"[35.660555555555554, 139.72916666666666]",wiki,https://en.wikipedia.org/wiki/Roppongi_Hills_Mori_Tower
+63,Taipei Nan Shan Plaza,Taipei,228.5,"[25.034444444444446, 121.56694444444445]",wiki,https://en.wikipedia.org/wiki/Taipei_Nan_Shan_Plaza
+64,Europaturm,Frankfurt,227.0,"[50.13527777777778, 8.654722222222222]",wiki,https://en.wikipedia.org/wiki/Europaturm
+65,Tokyo Tower,Tokyo,223.5,"[35.65861111111111, 139.74555555555554]",wiki,https://en.wikipedia.org/wiki/Tokyo_Tower
+66,Macau Tower,Macau,223.0,"[22.179722222222225, 113.53666666666666]",wiki,https://en.wikipedia.org/wiki/Macau_Tower
+67,Sky Tower,Auckland,220.0,"[-36.848333333333336, 174.76222222222222]",wiki,https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)
+68,Tour Montparnasse,Paris,209.0,"[48.842222222222226, 2.321944444444444]",wiki,https://en.wikipedia.org/wiki/Tour_Montparnasse
+69,Fernsehturm Berlin,Berlin,207.0,"[52.520833333333336, 13.409444444444444]",wiki,https://en.wikipedia.org/wiki/Fernsehturm_Berlin
+70,Tokyo Metropolitan Government Building,Tokyo,202.0,"[35.689722222222215, 139.69222222222223]",wiki,https://en.wikipedia.org/wiki/Tokyo_Metropolitan_Government_Building
+71,Main Tower,Frankfurt,200.0,"[50.11222222222222, 8.671944444444444]",wiki,https://en.wikipedia.org/wiki/Main_Tower
+72,Marina Bay Sands,Singapore,200.0,"[1.2826499999999998, 103.85841666666666]",wiki,https://en.wikipedia.org/wiki/Marina_Bay_Sands
+73,Olympiaturm,Munich,192.0,"[48.17444444444444, 11.553611111111111]",wiki,https://en.wikipedia.org/wiki/Olympiaturm
+74,Mohammed VI Tower,Salé,190.0,"[34.028888888888886, -6.818611111111111]",wiki,https://en.wikipedia.org/wiki/Mohammed_VI_Tower
+75,Vysotsky,Yekaterinburg,186.0,"[56.83613888888889, 60.61463888888889]",wiki,https://en.wikipedia.org/wiki/Vysotsky_(skyscraper)
+76,Bitexco Financial Tower,Ho Chi Minh City,181.0,"[10.771666666666668, 106.70444444444445]",wiki,https://en.wikipedia.org/wiki/Bitexco_Financial_Tower
+77,Tower of the Americas,San Antonio,176.0,"[29.41888888888889, -98.48361111111112]",wiki,https://en.wikipedia.org/wiki/Tower_of_the_Americas
+78,Rheinturm,Düsseldorf,170.0,"[51.217777777777776, 6.761666666666667]",wiki,https://en.wikipedia.org/wiki/Rheinturm
+79,Umeda Sky Building,Osaka,170.0,"[34.70527777777778, 135.4897222222222]",wiki,https://en.wikipedia.org/wiki/Umeda_Sky_Building
+80,Tallinn TV Tower,Tallinn,170.0,"[59.47120555555556, 24.8875]",wiki,https://en.wikipedia.org/wiki/Tallinn_TV_Tower
+81,Donauturm,Vienna,169.4,"[48.24, 16.410833333333333]",wiki,https://en.wikipedia.org/wiki/Donauturm
+82,N Seoul Tower,Seoul,168.3,"[37.551424999999995, 126.988]",wiki,https://en.wikipedia.org/wiki/N_Seoul_Tower
+83,Vilnius TV Tower,Vilnius,165.0,"[54.68722222222222, 25.21472222222222]",wiki,https://en.wikipedia.org/wiki/Vilnius_TV_Tower
+84,Space Needle,Seattle,158.5,"[47.62027777777778, -122.34916666666666]",wiki,https://en.wikipedia.org/wiki/Space_Needle
+85,Calgary Tower,Calgary,157.5,"[51.044444444444444, -114.06361111111111]",wiki,https://en.wikipedia.org/wiki/Calgary_Tower
+86,Fernsehturm Stuttgart,Stuttgart,153.0,"[48.75666666666667, 9.19138888888889]",wiki,https://en.wikipedia.org/wiki/Fernsehturm_Stuttgart
+87,Çamlıca Tower,Istanbul,153.0,"[41.0163724, 29.065540900000002]",geo,https://en.wikipedia.org/wiki/%C3%87aml%C4%B1ca_Tower
+88,Avala Tower,Belgrade,135.0,"[44.69597222222222, 20.514444444444443]",wiki,https://en.wikipedia.org/wiki/Avala_Tower
+89,Fukuoka Tower,Fukuoka,123.0,"[33.593250000000005, 130.3514722222222]",wiki,https://en.wikipedia.org/wiki/Fukuoka_Tower
+90,Kuwait viewing sphere,Kuwait City,120.0,"[29.39, 48.003055555555555]",wiki,https://en.wikipedia.org/wiki/Kuwait_Towers
+91,Palace of Culture and Science,Warsaw,114.0,"[52.23166666666667, 21.00638888888889]",wiki,https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science
+92,Spinnaker Tower,Portsmouth,110.0,"[50.79561666666667, -1.1085722222222223]",wiki,https://en.wikipedia.org/wiki/Spinnaker_Tower
+93,Millennium Center,Sofia,105.0,"[45.8687062, 11.013619]",geo,https://en.wikipedia.org/wiki/Millennium_Center_(Sofia)
+94,Kyoto Tower,Kyoto,100.0,"[34.987500000000004, 135.75916666666666]",wiki,https://en.wikipedia.org/wiki/Kyoto_Tower
+95,Nagoya TV Tower,Nagoya,100.0,"[35.17241666666666, 136.90833333333333]",wiki,https://en.wikipedia.org/wiki/Nagoya_TV_Tower
+96,Tashkent Tower,Tashkent,97.0,"[41.34556944444444, 69.28460277777778]",wiki,https://en.wikipedia.org/wiki/Tashkent_Tower
+97,Snezhanka Tower,Pamporovo,93.0,"[41.63722222222222, 24.679722222222225]",wiki,https://en.wikipedia.org/wiki/Snezhanka_Tower
+98,Kobe Port Tower,Kobe,90.8,"[34.68263888888889, 135.18669444444444]",wiki,https://en.wikipedia.org/wiki/Kobe_Port_Tower
+99,Sapporo TV Tower,Sapporo,90.0,"[43.06111111111111, 141.3563888888889]",wiki,https://en.wikipedia.org/wiki/Sapporo_TV_Tower
+100,Tsūtenkaku,Osaka,87.5,"[34.65222222222222, 135.50611111111112]",wiki,https://en.wikipedia.org/wiki/Ts%C5%ABtenkaku
+101,Nebraska State Capitol,Lincoln,75.0,"[40.808055555555555, -96.69972222222222]",wiki,https://en.wikipedia.org/wiki/Nebraska_State_Capitol
+102,Ashcol,Haifa,75.0,"[32.762899, 35.018141]",wiki,https://he.wikipedia.org/wiki/%D7%9E%D7%92%D7%93%D7%9C_%D7%90%D7%A9%D7%9B%D7%95%D7%9C
